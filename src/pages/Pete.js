@@ -15,7 +15,7 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hi I'm Pete. I'm from Illinois and I am studying computer science student at CU Boulder. 
+            Hi I'm Pete. I'm from Illinois and I am studying computer science at CU Boulder. 
             I am also on the GNC subteam of the CU in Space club.
             I have experience programming in Python, C++ and C#, mainly through
             working on Arduino, cybersecurity, machine learning, and game development projects.
